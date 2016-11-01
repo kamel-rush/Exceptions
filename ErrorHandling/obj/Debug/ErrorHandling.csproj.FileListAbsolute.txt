@@ -1,0 +1,6 @@
+c:\users\kamel\documents\visual studio 2015\Projects\ErrorHandling\ErrorHandling\bin\Debug\ErrorHandling.exe.config
+c:\users\kamel\documents\visual studio 2015\Projects\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.csprojResolveAssemblyReference.cache
+c:\users\kamel\documents\visual studio 2015\Projects\ErrorHandling\ErrorHandling\bin\Debug\ErrorHandling.exe
+c:\users\kamel\documents\visual studio 2015\Projects\ErrorHandling\ErrorHandling\bin\Debug\ErrorHandling.pdb
+c:\users\kamel\documents\visual studio 2015\Projects\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.exe
+c:\users\kamel\documents\visual studio 2015\Projects\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.pdb
